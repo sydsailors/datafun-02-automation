@@ -6,7 +6,7 @@ Steps already completed:
 1. [Set up the Machine](../01-machine-setup/MACHINE-SETUP.md)
 2. [Initialized a new Project](../02-project-initialization/PROJECT-INITIALIZATION.md)
 
-##Before/During Working on the Project
+## Before/During Working on the Project
 1. Pull the Latest Changes from GitHub 
    
 ```shell
