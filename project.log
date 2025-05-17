@@ -1,0 +1,1039 @@
+2025-05-16 17:32:23.264 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 17:32:23.265 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:144 - FUNCTION: create_prefixed_folders()
+2025-05-16 17:32:23.265 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:145 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 17:32:23.265 | INFO     | __main__:create_folders_periodically:173 - FUNCTION: create_folders_periodically()
+2025-05-16 17:32:23.266 | INFO     | __main__:create_folders_periodically:174 - PARAMETER: duration_seconds = 5
+2025-05-16 17:32:23.269 | INFO     | __main__:create_standardized_folders:201 - FUNCTION: create_standardized_folders()
+2025-05-16 17:32:23.269 | INFO     | __main__:create_standardized_folders:202 - PARAMETERS: folder_list = ['University of Kansas Medical Center', 'Childrens Mercy', 'Overland Park Regional', 'Advent Health Shawnee Mission', 'University Health'], to_lowercase = True, remove_spaces = True
+2025-05-16 17:32:23.271 | INFO     | __main__:main:250 - 
+#####################################
+2025-05-16 17:32:23.271 | INFO     | __main__:main:251 - # Completed execution of main()
+2025-05-16 17:32:23.271 | INFO     | __main__:main:252 - #####################################
+2025-05-16 17:32:54.287 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 17:32:54.288 | INFO     | __main__:main:225 - #####################################
+2025-05-16 17:32:54.289 | INFO     | __main__:main:226 - # Starting execution of main()
+2025-05-16 17:32:54.289 | INFO     | __main__:main:227 - #####################################
+
+2025-05-16 17:32:54.289 | INFO     | __main__:main:229 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 17:32:54.289 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 17:32:54.289 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 17:32:54.290 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 17:32:54.290 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 17:32:54.290 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 17:32:54.291 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 17:32:54.291 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:144 - FUNCTION: create_prefixed_folders()
+2025-05-16 17:32:54.291 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:145 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 17:32:54.291 | INFO     | __main__:create_folders_periodically:173 - FUNCTION: create_folders_periodically()
+2025-05-16 17:32:54.292 | INFO     | __main__:create_folders_periodically:174 - PARAMETER: duration_seconds = 5
+2025-05-16 17:32:54.292 | INFO     | __main__:create_standardized_folders:201 - FUNCTION: create_standardized_folders()
+2025-05-16 17:32:54.292 | INFO     | __main__:create_standardized_folders:202 - PARAMETERS: folder_list = ['University of Kansas Medical Center', 'Childrens Mercy', 'Overland Park Regional', 'Advent Health Shawnee Mission', 'University Health'], to_lowercase = True, remove_spaces = True
+2025-05-16 17:32:54.292 | INFO     | __main__:main:250 - 
+#####################################
+2025-05-16 17:32:54.292 | INFO     | __main__:main:251 - # Completed execution of main()
+2025-05-16 17:32:54.292 | INFO     | __main__:main:252 - #####################################
+2025-05-16 17:44:43.177 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 17:44:43.178 | INFO     | __main__:main:218 - #####################################
+2025-05-16 17:44:43.178 | INFO     | __main__:main:219 - # Starting execution of main()
+2025-05-16 17:44:43.178 | INFO     | __main__:main:220 - #####################################
+
+2025-05-16 17:44:43.178 | INFO     | __main__:main:222 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 17:44:43.178 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 17:44:43.179 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 17:44:43.180 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 17:44:43.180 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 17:44:43.180 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 17:44:43.180 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 17:49:40.042 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 17:49:40.043 | INFO     | __main__:main:220 - #####################################
+2025-05-16 17:49:40.044 | INFO     | __main__:main:221 - # Starting execution of main()
+2025-05-16 17:49:40.044 | INFO     | __main__:main:222 - #####################################
+
+2025-05-16 17:49:40.044 | INFO     | __main__:main:224 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 17:49:40.045 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 17:49:40.045 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 17:49:40.046 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 17:49:40.046 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 17:49:40.046 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 17:49:40.046 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 17:55:01.154 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 17:55:01.155 | INFO     | __main__:main:221 - #####################################
+2025-05-16 17:55:01.155 | INFO     | __main__:main:222 - # Starting execution of main()
+2025-05-16 17:55:01.156 | INFO     | __main__:main:223 - #####################################
+
+2025-05-16 17:55:01.156 | INFO     | __main__:main:225 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 17:55:01.156 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 17:55:01.156 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 17:55:01.157 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 17:55:01.157 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 17:55:01.158 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 17:55:01.158 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 17:55:01.158 | INFO     | __main__:create_folders_periodically:169 - FUNCTION: create_folders_periodically()
+2025-05-16 17:55:01.158 | INFO     | __main__:create_folders_periodically:170 - PARAMETER: duration_seconds = 5
+2025-05-16 17:55:01.159 | INFO     | __main__:create_standardized_folders:197 - FUNCTION: create_standardized_folders()
+2025-05-16 17:55:01.159 | INFO     | __main__:create_standardized_folders:198 - PARAMETERS: folder_list = ['University of Kansas Medical Center', 'Childrens Mercy', 'Overland Park Regional', 'Advent Health Shawnee Mission', 'University Health'], to_lowercase = True, remove_spaces = True
+2025-05-16 17:55:01.159 | INFO     | __main__:main:246 - 
+#####################################
+2025-05-16 17:55:01.159 | INFO     | __main__:main:247 - # Completed execution of main()
+2025-05-16 17:55:01.161 | INFO     | __main__:main:248 - #####################################
+2025-05-16 17:55:11.027 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 17:55:11.028 | INFO     | __main__:main:221 - #####################################
+2025-05-16 17:55:11.028 | INFO     | __main__:main:222 - # Starting execution of main()
+2025-05-16 17:55:11.028 | INFO     | __main__:main:223 - #####################################
+
+2025-05-16 17:55:11.028 | INFO     | __main__:main:225 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 17:55:11.028 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 17:55:11.029 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 17:55:11.030 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 17:55:11.030 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 17:55:11.031 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 17:55:11.031 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 17:55:11.031 | INFO     | __main__:create_folders_periodically:169 - FUNCTION: create_folders_periodically()
+2025-05-16 17:55:11.031 | INFO     | __main__:create_folders_periodically:170 - PARAMETER: duration_seconds = 5
+2025-05-16 17:55:11.032 | INFO     | __main__:create_standardized_folders:197 - FUNCTION: create_standardized_folders()
+2025-05-16 17:55:11.032 | INFO     | __main__:create_standardized_folders:198 - PARAMETERS: folder_list = ['University of Kansas Medical Center', 'Childrens Mercy', 'Overland Park Regional', 'Advent Health Shawnee Mission', 'University Health'], to_lowercase = True, remove_spaces = True
+2025-05-16 17:55:11.032 | INFO     | __main__:main:246 - 
+#####################################
+2025-05-16 17:55:11.032 | INFO     | __main__:main:247 - # Completed execution of main()
+2025-05-16 17:55:11.032 | INFO     | __main__:main:248 - #####################################
+2025-05-16 17:55:27.436 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 17:55:27.437 | INFO     | __main__:main:220 - #####################################
+2025-05-16 17:55:27.437 | INFO     | __main__:main:221 - # Starting execution of main()
+2025-05-16 17:55:27.437 | INFO     | __main__:main:222 - #####################################
+
+2025-05-16 17:55:27.437 | INFO     | __main__:main:224 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 17:55:27.438 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 17:55:27.438 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 17:55:27.439 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 17:55:27.440 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 17:55:27.441 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 17:55:27.441 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 17:55:27.444 | INFO     | __main__:create_folders_periodically:168 - FUNCTION: create_folders_periodically()
+2025-05-16 17:55:27.445 | INFO     | __main__:create_folders_periodically:169 - PARAMETER: duration_seconds = 5
+2025-05-16 17:55:27.445 | INFO     | __main__:create_standardized_folders:196 - FUNCTION: create_standardized_folders()
+2025-05-16 17:55:27.445 | INFO     | __main__:create_standardized_folders:197 - PARAMETERS: folder_list = ['University of Kansas Medical Center', 'Childrens Mercy', 'Overland Park Regional', 'Advent Health Shawnee Mission', 'University Health'], to_lowercase = True, remove_spaces = True
+2025-05-16 17:55:27.446 | INFO     | __main__:main:245 - 
+#####################################
+2025-05-16 17:55:27.446 | INFO     | __main__:main:246 - # Completed execution of main()
+2025-05-16 17:55:27.447 | INFO     | __main__:main:247 - #####################################
+2025-05-16 17:55:34.878 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 17:55:34.878 | INFO     | __main__:main:220 - #####################################
+2025-05-16 17:55:34.878 | INFO     | __main__:main:221 - # Starting execution of main()
+2025-05-16 17:55:34.879 | INFO     | __main__:main:222 - #####################################
+
+2025-05-16 17:55:34.879 | INFO     | __main__:main:224 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 17:55:34.879 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 17:55:34.879 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 17:55:34.881 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 17:55:34.882 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 17:55:34.889 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 17:55:34.890 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 17:55:34.899 | INFO     | __main__:create_folders_periodically:168 - FUNCTION: create_folders_periodically()
+2025-05-16 17:55:34.900 | INFO     | __main__:create_folders_periodically:169 - PARAMETER: duration_seconds = 5
+2025-05-16 17:55:34.900 | INFO     | __main__:create_standardized_folders:196 - FUNCTION: create_standardized_folders()
+2025-05-16 17:55:34.903 | INFO     | __main__:create_standardized_folders:197 - PARAMETERS: folder_list = ['University of Kansas Medical Center', 'Childrens Mercy', 'Overland Park Regional', 'Advent Health Shawnee Mission', 'University Health'], to_lowercase = True, remove_spaces = True
+2025-05-16 17:55:34.907 | INFO     | __main__:main:245 - 
+#####################################
+2025-05-16 17:55:34.907 | INFO     | __main__:main:246 - # Completed execution of main()
+2025-05-16 17:55:34.907 | INFO     | __main__:main:247 - #####################################
+2025-05-16 17:55:40.245 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 17:55:40.247 | INFO     | __main__:main:220 - #####################################
+2025-05-16 17:55:40.247 | INFO     | __main__:main:221 - # Starting execution of main()
+2025-05-16 17:55:40.248 | INFO     | __main__:main:222 - #####################################
+
+2025-05-16 17:55:40.248 | INFO     | __main__:main:224 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 17:55:40.250 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 17:55:40.252 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 17:55:40.261 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 17:55:40.263 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 17:55:40.264 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 17:55:40.266 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 17:55:40.296 | INFO     | __main__:create_folders_periodically:168 - FUNCTION: create_folders_periodically()
+2025-05-16 17:55:40.297 | INFO     | __main__:create_folders_periodically:169 - PARAMETER: duration_seconds = 5
+2025-05-16 17:55:40.297 | INFO     | __main__:create_standardized_folders:196 - FUNCTION: create_standardized_folders()
+2025-05-16 17:55:40.298 | INFO     | __main__:create_standardized_folders:197 - PARAMETERS: folder_list = ['University of Kansas Medical Center', 'Childrens Mercy', 'Overland Park Regional', 'Advent Health Shawnee Mission', 'University Health'], to_lowercase = True, remove_spaces = True
+2025-05-16 17:55:40.309 | INFO     | __main__:main:245 - 
+#####################################
+2025-05-16 17:55:40.311 | INFO     | __main__:main:246 - # Completed execution of main()
+2025-05-16 17:55:40.312 | INFO     | __main__:main:247 - #####################################
+2025-05-16 17:56:23.952 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 17:56:23.953 | INFO     | __main__:main:220 - #####################################
+2025-05-16 17:56:23.953 | INFO     | __main__:main:221 - # Starting execution of main()
+2025-05-16 17:56:23.953 | INFO     | __main__:main:222 - #####################################
+
+2025-05-16 17:56:23.954 | INFO     | __main__:main:224 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 17:56:23.954 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 17:56:23.954 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 17:56:23.956 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 17:56:23.956 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 17:56:23.956 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 17:56:23.956 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 17:56:23.957 | INFO     | __main__:create_folders_periodically:168 - FUNCTION: create_folders_periodically()
+2025-05-16 17:56:23.957 | INFO     | __main__:create_folders_periodically:169 - PARAMETER: duration_seconds = 5
+2025-05-16 17:56:23.957 | INFO     | __main__:create_standardized_folders:196 - FUNCTION: create_standardized_folders()
+2025-05-16 17:56:23.957 | INFO     | __main__:create_standardized_folders:197 - PARAMETERS: folder_list = ['University of Kansas Medical Center', 'Childrens Mercy', 'Overland Park Regional', 'Advent Health Shawnee Mission', 'University Health'], to_lowercase = True, remove_spaces = True
+2025-05-16 17:56:23.958 | INFO     | __main__:main:245 - 
+#####################################
+2025-05-16 17:56:23.958 | INFO     | __main__:main:246 - # Completed execution of main()
+2025-05-16 17:56:23.958 | INFO     | __main__:main:247 - #####################################
+2025-05-16 18:19:00.300 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:19:00.301 | INFO     | __main__:main:224 - #####################################
+2025-05-16 18:19:00.301 | INFO     | __main__:main:225 - # Starting execution of main()
+2025-05-16 18:19:00.301 | INFO     | __main__:main:226 - #####################################
+
+2025-05-16 18:19:00.301 | INFO     | __main__:main:228 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:19:00.301 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:19:00.301 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:19:00.302 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:19:00.302 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:19:00.303 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:19:00.303 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:19:00.303 | INFO     | __main__:create_folders_periodically:162 - FUNCTION: create_folders_periodically()
+2025-05-16 18:19:00.303 | INFO     | __main__:create_folders_periodically:163 - PARAMETER: duration_seconds = 5
+2025-05-16 18:24:55.817 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:24:55.818 | INFO     | __main__:main:224 - #####################################
+2025-05-16 18:24:55.819 | INFO     | __main__:main:225 - # Starting execution of main()
+2025-05-16 18:24:55.819 | INFO     | __main__:main:226 - #####################################
+
+2025-05-16 18:24:55.819 | INFO     | __main__:main:228 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:24:55.819 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:24:55.819 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:24:55.821 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:24:55.821 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:24:55.822 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:24:55.824 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:25:24.622 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:25:24.623 | INFO     | __main__:main:224 - #####################################
+2025-05-16 18:25:24.623 | INFO     | __main__:main:225 - # Starting execution of main()
+2025-05-16 18:25:24.624 | INFO     | __main__:main:226 - #####################################
+
+2025-05-16 18:25:24.624 | INFO     | __main__:main:228 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:25:24.625 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:25:24.626 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:25:24.644 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:25:24.646 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:25:24.647 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:25:24.648 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:25:24.649 | INFO     | __main__:create_folders_periodically:162 - FUNCTION: create_folders_periodically()
+2025-05-16 18:25:24.656 | INFO     | __main__:create_folders_periodically:163 - PARAMETER: duration_seconds = 5
+2025-05-16 18:28:08.577 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:28:08.577 | INFO     | __main__:main:224 - #####################################
+2025-05-16 18:28:08.578 | INFO     | __main__:main:225 - # Starting execution of main()
+2025-05-16 18:28:08.578 | INFO     | __main__:main:226 - #####################################
+
+2025-05-16 18:28:08.578 | INFO     | __main__:main:228 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:28:08.578 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:28:08.579 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:28:08.580 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:28:08.580 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:28:08.581 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:28:08.581 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:28:08.581 | INFO     | __main__:create_folders_periodically:162 - FUNCTION: create_folders_periodically()
+2025-05-16 18:28:08.581 | INFO     | __main__:create_folders_periodically:163 - PARAMETER: duration_seconds = 5
+2025-05-16 18:28:56.750 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:28:56.751 | INFO     | __main__:main:225 - #####################################
+2025-05-16 18:28:56.751 | INFO     | __main__:main:226 - # Starting execution of main()
+2025-05-16 18:28:56.751 | INFO     | __main__:main:227 - #####################################
+
+2025-05-16 18:28:56.751 | INFO     | __main__:main:229 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:28:56.751 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:28:56.752 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:28:56.752 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:28:56.752 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:28:56.753 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:28:56.753 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:28:56.753 | INFO     | __main__:create_folders_periodically:162 - FUNCTION: create_folders_periodically()
+2025-05-16 18:28:56.753 | INFO     | __main__:create_folders_periodically:163 - PARAMETER: duration_seconds = 5
+2025-05-16 18:39:50.308 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:39:50.309 | INFO     | __main__:main:241 - #####################################
+2025-05-16 18:39:50.309 | INFO     | __main__:main:242 - # Starting execution of main()
+2025-05-16 18:39:50.309 | INFO     | __main__:main:243 - #####################################
+
+2025-05-16 18:39:50.310 | INFO     | __main__:main:245 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:39:50.310 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:39:50.310 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:39:50.311 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:39:50.311 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:39:50.312 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:39:50.312 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:39:50.312 | INFO     | __main__:create_folders_periodically:190 - FUNCTION: create_folders_periodically()
+2025-05-16 18:39:50.313 | INFO     | __main__:create_folders_periodically:191 - PARAMETER: duration_seconds = 1
+2025-05-16 18:40:58.416 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:40:58.417 | INFO     | __main__:main:241 - #####################################
+2025-05-16 18:40:58.417 | INFO     | __main__:main:242 - # Starting execution of main()
+2025-05-16 18:40:58.418 | INFO     | __main__:main:243 - #####################################
+
+2025-05-16 18:40:58.418 | INFO     | __main__:main:245 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:40:58.418 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:40:58.418 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:40:58.419 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:40:58.419 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:40:58.419 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:40:58.419 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:40:58.420 | INFO     | __main__:create_folders_periodically:190 - FUNCTION: create_folders_periodically()
+2025-05-16 18:40:58.420 | INFO     | __main__:create_folders_periodically:191 - PARAMETER: duration_seconds = 1
+2025-05-16 18:41:37.037 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:41:37.037 | INFO     | __main__:main:241 - #####################################
+2025-05-16 18:41:37.037 | INFO     | __main__:main:242 - # Starting execution of main()
+2025-05-16 18:41:37.038 | INFO     | __main__:main:243 - #####################################
+
+2025-05-16 18:41:37.038 | INFO     | __main__:main:245 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:41:37.038 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:41:37.038 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:41:37.040 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:41:37.041 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:41:37.041 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:41:37.041 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:41:37.041 | INFO     | __main__:create_folders_periodically:190 - FUNCTION: create_folders_periodically()
+2025-05-16 18:41:37.041 | INFO     | __main__:create_folders_periodically:191 - PARAMETER: duration_seconds = 1
+2025-05-16 18:49:18.219 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:49:18.220 | INFO     | __main__:main:245 - #####################################
+2025-05-16 18:49:18.220 | INFO     | __main__:main:246 - # Starting execution of main()
+2025-05-16 18:49:18.220 | INFO     | __main__:main:247 - #####################################
+
+2025-05-16 18:49:18.220 | INFO     | __main__:main:249 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:49:18.221 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:49:18.221 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:49:18.222 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:49:18.222 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:49:18.222 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:49:18.223 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:49:18.223 | INFO     | __main__:create_folders_periodically:194 - FUNCTION: create_folders_periodically()
+2025-05-16 18:49:18.223 | INFO     | __main__:create_folders_periodically:195 - PARAMETER: duration_seconds = 1
+2025-05-16 18:53:02.019 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:53:02.020 | INFO     | __main__:main:252 - #####################################
+2025-05-16 18:53:02.020 | INFO     | __main__:main:253 - # Starting execution of main()
+2025-05-16 18:53:02.020 | INFO     | __main__:main:254 - #####################################
+
+2025-05-16 18:53:02.021 | INFO     | __main__:main:256 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:53:02.021 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:53:02.021 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:53:02.022 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:53:02.022 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:53:02.022 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:53:02.022 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:53:02.023 | INFO     | __main__:create_folders_periodically:201 - FUNCTION: create_folders_periodically()
+2025-05-16 18:53:02.023 | INFO     | __main__:create_folders_periodically:202 - PARAMETER: duration_seconds = 1
+2025-05-16 18:53:52.869 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:53:52.869 | INFO     | __main__:main:250 - #####################################
+2025-05-16 18:53:52.870 | INFO     | __main__:main:251 - # Starting execution of main()
+2025-05-16 18:53:52.870 | INFO     | __main__:main:252 - #####################################
+
+2025-05-16 18:53:52.870 | INFO     | __main__:main:254 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:53:52.870 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:53:52.870 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:53:52.871 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:53:52.871 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:53:52.872 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:53:52.872 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:53:52.872 | INFO     | __main__:create_folders_periodically:199 - FUNCTION: create_folders_periodically()
+2025-05-16 18:53:52.872 | INFO     | __main__:create_folders_periodically:200 - PARAMETER: duration_seconds = 1
+2025-05-16 18:56:04.898 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:56:04.899 | INFO     | __main__:main:251 - #####################################
+2025-05-16 18:56:04.899 | INFO     | __main__:main:252 - # Starting execution of main()
+2025-05-16 18:56:04.899 | INFO     | __main__:main:253 - #####################################
+
+2025-05-16 18:56:04.899 | INFO     | __main__:main:255 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:56:04.900 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:56:04.900 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:56:04.901 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:56:04.901 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:56:04.901 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:56:04.901 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:56:04.901 | INFO     | __main__:create_folders_periodically:200 - FUNCTION: create_folders_periodically()
+2025-05-16 18:56:04.902 | INFO     | __main__:create_folders_periodically:201 - PARAMETER: duration_seconds = 1
+2025-05-16 18:59:18.921 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:59:18.922 | INFO     | __main__:main:257 - #####################################
+2025-05-16 18:59:18.923 | INFO     | __main__:main:258 - # Starting execution of main()
+2025-05-16 18:59:18.923 | INFO     | __main__:main:259 - #####################################
+
+2025-05-16 18:59:18.923 | INFO     | __main__:main:261 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:59:18.923 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:59:18.924 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:59:18.925 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:59:18.925 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:59:18.925 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:59:18.925 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:59:18.926 | INFO     | __main__:create_folders_periodically:206 - FUNCTION: create_folders_periodically()
+2025-05-16 18:59:18.926 | INFO     | __main__:create_folders_periodically:207 - PARAMETER: duration_seconds = 1
+2025-05-16 18:59:36.916 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 18:59:36.917 | INFO     | __main__:main:257 - #####################################
+2025-05-16 18:59:36.917 | INFO     | __main__:main:258 - # Starting execution of main()
+2025-05-16 18:59:36.917 | INFO     | __main__:main:259 - #####################################
+
+2025-05-16 18:59:36.917 | INFO     | __main__:main:261 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 18:59:36.917 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 18:59:36.917 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 18:59:36.918 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 18:59:36.919 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 18:59:36.923 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 18:59:36.924 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 18:59:36.925 | INFO     | __main__:create_folders_periodically:206 - FUNCTION: create_folders_periodically()
+2025-05-16 18:59:36.925 | INFO     | __main__:create_folders_periodically:207 - PARAMETER: duration_seconds = 1
+2025-05-16 19:00:06.046 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 19:00:06.047 | INFO     | __main__:main:257 - #####################################
+2025-05-16 19:00:06.048 | INFO     | __main__:main:258 - # Starting execution of main()
+2025-05-16 19:00:06.048 | INFO     | __main__:main:259 - #####################################
+
+2025-05-16 19:00:06.048 | INFO     | __main__:main:261 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:00:06.048 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 19:00:06.048 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:00:06.050 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 19:00:06.050 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:00:06.050 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:00:06.050 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:00:06.051 | INFO     | __main__:create_folders_periodically:206 - FUNCTION: create_folders_periodically()
+2025-05-16 19:00:06.051 | INFO     | __main__:create_folders_periodically:207 - PARAMETER: duration_seconds = 1
+2025-05-16 19:01:17.540 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 19:01:17.541 | INFO     | __main__:main:259 - #####################################
+2025-05-16 19:01:17.541 | INFO     | __main__:main:260 - # Starting execution of main()
+2025-05-16 19:01:17.542 | INFO     | __main__:main:261 - #####################################
+
+2025-05-16 19:01:17.542 | INFO     | __main__:main:263 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:01:17.543 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 19:01:17.543 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:01:17.544 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 19:01:17.544 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:01:17.545 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:01:17.545 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:01:17.545 | INFO     | __main__:create_folders_periodically:208 - FUNCTION: create_folders_periodically()
+2025-05-16 19:01:17.545 | INFO     | __main__:create_folders_periodically:209 - PARAMETER: duration_seconds = 1
+2025-05-16 19:01:36.973 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 19:01:36.973 | INFO     | __main__:main:255 - #####################################
+2025-05-16 19:01:36.974 | INFO     | __main__:main:256 - # Starting execution of main()
+2025-05-16 19:01:36.974 | INFO     | __main__:main:257 - #####################################
+
+2025-05-16 19:01:36.974 | INFO     | __main__:main:259 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:01:36.974 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 19:01:36.974 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:01:36.976 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 19:01:36.976 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:01:36.976 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:01:36.976 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:01:36.977 | INFO     | __main__:create_folders_periodically:204 - FUNCTION: create_folders_periodically()
+2025-05-16 19:01:36.977 | INFO     | __main__:create_folders_periodically:205 - PARAMETER: duration_seconds = 1
+2025-05-16 19:02:10.494 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 19:02:10.495 | INFO     | __main__:main:238 - #####################################
+2025-05-16 19:02:10.495 | INFO     | __main__:main:239 - # Starting execution of main()
+2025-05-16 19:02:10.496 | INFO     | __main__:main:240 - #####################################
+
+2025-05-16 19:02:10.496 | INFO     | __main__:main:242 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:02:10.496 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 19:02:10.496 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:02:10.497 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 19:02:10.497 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:02:10.497 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:02:10.497 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:02:10.498 | INFO     | __main__:create_folders_periodically:164 - FUNCTION: create_folders_periodically()
+2025-05-16 19:02:10.498 | INFO     | __main__:create_folders_periodically:165 - PARAMETER: duration_seconds = 1
+2025-05-16 19:02:38.343 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 19:02:38.343 | INFO     | __main__:main:230 - #####################################
+2025-05-16 19:02:38.344 | INFO     | __main__:main:231 - # Starting execution of main()
+2025-05-16 19:02:38.344 | INFO     | __main__:main:232 - #####################################
+
+2025-05-16 19:02:38.344 | INFO     | __main__:main:234 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:02:38.344 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 19:02:38.344 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:02:38.346 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 19:02:38.346 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:02:38.346 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:02:38.346 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:02:38.347 | INFO     | __main__:create_folders_periodically:164 - FUNCTION: create_folders_periodically()
+2025-05-16 19:02:38.347 | INFO     | __main__:create_folders_periodically:165 - PARAMETER: duration_seconds = 1
+2025-05-16 19:09:57.178 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 19:09:57.183 | INFO     | __main__:main:232 - #####################################
+2025-05-16 19:09:57.183 | INFO     | __main__:main:233 - # Starting execution of main()
+2025-05-16 19:09:57.183 | INFO     | __main__:main:234 - #####################################
+
+2025-05-16 19:09:57.183 | INFO     | __main__:main:236 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:09:57.183 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 19:09:57.183 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:09:57.185 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 19:09:57.185 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:09:57.185 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:09:57.185 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:09:57.186 | INFO     | __main__:create_folders_periodically:164 - FUNCTION: create_folders_periodically()
+2025-05-16 19:09:57.186 | INFO     | __main__:create_folders_periodically:165 - PARAMETER: duration_seconds = 1
+2025-05-16 19:10:14.426 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-05-16 19:10:14.427 | INFO     | __main__:main:232 - #####################################
+2025-05-16 19:10:14.427 | INFO     | __main__:main:233 - # Starting execution of main()
+2025-05-16 19:10:14.427 | INFO     | __main__:main:234 - #####################################
+
+2025-05-16 19:10:14.427 | INFO     | __main__:main:236 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:10:14.427 | INFO     | __main__:create_folders_for_range:70 - FUNCTION: create_folders_for_range()
+2025-05-16 19:10:14.427 | INFO     | __main__:create_folders_for_range:71 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:10:14.428 | INFO     | __main__:create_folders_from_list:96 - FUNCTION: create_folders_from_list()
+2025-05-16 19:10:14.428 | INFO     | __main__:create_folders_from_list:97 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:10:14.429 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:10:14.429 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:132 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:10:14.430 | INFO     | __main__:create_folders_periodically:164 - FUNCTION: create_folders_periodically()
+2025-05-16 19:10:14.431 | INFO     | __main__:create_folders_periodically:165 - PARAMETER: duration_seconds = 1
+2025-05-16 19:13:38.118 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-05-16 19:13:38.119 | INFO     | __main__:main:233 - #####################################
+2025-05-16 19:13:38.119 | INFO     | __main__:main:234 - # Starting execution of main()
+2025-05-16 19:13:38.119 | INFO     | __main__:main:235 - #####################################
+
+2025-05-16 19:13:38.119 | INFO     | __main__:main:237 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:13:38.120 | INFO     | __main__:create_folders_for_range:73 - FUNCTION: create_folders_for_range()
+2025-05-16 19:13:38.120 | INFO     | __main__:create_folders_for_range:74 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:13:38.123 | INFO     | __main__:create_folders_from_list:99 - FUNCTION: create_folders_from_list()
+2025-05-16 19:13:38.127 | INFO     | __main__:create_folders_from_list:100 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:13:38.134 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:13:38.135 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:13:38.171 | INFO     | __main__:create_folders_periodically:167 - FUNCTION: create_folders_periodically()
+2025-05-16 19:13:38.172 | INFO     | __main__:create_folders_periodically:168 - PARAMETER: duration_seconds = 1
+2025-05-16 19:42:09.227 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-05-16 19:42:09.229 | INFO     | __main__:main:230 - #####################################
+2025-05-16 19:42:09.240 | INFO     | __main__:main:231 - # Starting execution of main()
+2025-05-16 19:42:09.240 | INFO     | __main__:main:232 - #####################################
+
+2025-05-16 19:42:09.241 | INFO     | __main__:main:234 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:42:09.242 | INFO     | __main__:create_folders_for_range:73 - FUNCTION: create_folders_for_range()
+2025-05-16 19:42:09.245 | INFO     | __main__:create_folders_for_range:74 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:42:09.279 | INFO     | __main__:create_folders_from_list:99 - FUNCTION: create_folders_from_list()
+2025-05-16 19:42:09.280 | INFO     | __main__:create_folders_from_list:100 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:42:09.288 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:42:09.289 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:42:09.289 | INFO     | __main__:create_folders_periodically:167 - FUNCTION: create_folders_periodically()
+2025-05-16 19:42:09.290 | INFO     | __main__:create_folders_periodically:168 - PARAMETER: duration_seconds = 5
+2025-05-16 19:42:09.290 | INFO     | __main__:create_folders_periodically:182 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:42:14.302 | INFO     | __main__:create_folders_periodically:182 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:42:19.306 | INFO     | __main__:create_folders_periodically:182 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:42:24.310 | INFO     | __main__:create_folders_periodically:182 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:42:29.317 | INFO     | __main__:create_folders_periodically:182 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:42:34.322 | INFO     | __main__:create_folders_periodically:182 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:42:39.323 | INFO     | __main__:create_folders_periodically:182 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:42:44.329 | INFO     | __main__:create_folders_periodically:182 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:42:49.330 | INFO     | __main__:create_folders_periodically:182 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:42:54.336 | INFO     | __main__:create_folders_periodically:182 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:42:59.339 | INFO     | __main__:create_folders_periodically:182 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:43:04.340 | INFO     | __main__:create_folders_periodically:182 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:46:20.408 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-05-16 19:46:20.409 | INFO     | __main__:main:230 - #####################################
+2025-05-16 19:46:20.409 | INFO     | __main__:main:231 - # Starting execution of main()
+2025-05-16 19:46:20.409 | INFO     | __main__:main:232 - #####################################
+
+2025-05-16 19:46:20.409 | INFO     | __main__:main:234 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:46:20.409 | INFO     | __main__:create_folders_for_range:73 - FUNCTION: create_folders_for_range()
+2025-05-16 19:46:20.409 | INFO     | __main__:create_folders_for_range:74 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:46:20.411 | INFO     | __main__:create_folders_from_list:99 - FUNCTION: create_folders_from_list()
+2025-05-16 19:46:20.411 | INFO     | __main__:create_folders_from_list:100 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:46:20.412 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:46:20.412 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:46:20.412 | INFO     | __main__:create_folders_periodically:167 - FUNCTION: create_folders_periodically()
+2025-05-16 19:46:20.412 | INFO     | __main__:create_folders_periodically:168 - PARAMETER: duration_seconds = 5
+2025-05-16 19:46:45.419 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-05-16 19:46:45.420 | INFO     | __main__:main:231 - #####################################
+2025-05-16 19:46:45.420 | INFO     | __main__:main:232 - # Starting execution of main()
+2025-05-16 19:46:45.420 | INFO     | __main__:main:233 - #####################################
+
+2025-05-16 19:46:45.420 | INFO     | __main__:main:235 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:46:45.420 | INFO     | __main__:create_folders_for_range:73 - FUNCTION: create_folders_for_range()
+2025-05-16 19:46:45.421 | INFO     | __main__:create_folders_for_range:74 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:46:45.423 | INFO     | __main__:create_folders_from_list:99 - FUNCTION: create_folders_from_list()
+2025-05-16 19:46:45.423 | INFO     | __main__:create_folders_from_list:100 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:46:45.423 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:46:45.423 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:46:45.424 | INFO     | __main__:create_folders_periodically:167 - FUNCTION: create_folders_periodically()
+2025-05-16 19:46:45.424 | INFO     | __main__:create_folders_periodically:168 - PARAMETER: duration_seconds = 5
+2025-05-16 19:47:10.569 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-05-16 19:47:10.570 | INFO     | __main__:main:231 - #####################################
+2025-05-16 19:47:10.570 | INFO     | __main__:main:232 - # Starting execution of main()
+2025-05-16 19:47:10.570 | INFO     | __main__:main:233 - #####################################
+
+2025-05-16 19:47:10.570 | INFO     | __main__:main:235 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:47:10.570 | INFO     | __main__:create_folders_for_range:73 - FUNCTION: create_folders_for_range()
+2025-05-16 19:47:10.570 | INFO     | __main__:create_folders_for_range:74 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:47:10.573 | INFO     | __main__:create_folders_from_list:99 - FUNCTION: create_folders_from_list()
+2025-05-16 19:47:10.575 | INFO     | __main__:create_folders_from_list:100 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:47:10.576 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:47:10.576 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:47:10.578 | INFO     | __main__:create_folders_periodically:167 - FUNCTION: create_folders_periodically()
+2025-05-16 19:47:10.579 | INFO     | __main__:create_folders_periodically:168 - PARAMETER: duration_seconds = 5
+2025-05-16 19:47:30.994 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-05-16 19:47:30.994 | INFO     | __main__:main:231 - #####################################
+2025-05-16 19:47:30.994 | INFO     | __main__:main:232 - # Starting execution of main()
+2025-05-16 19:47:30.995 | INFO     | __main__:main:233 - #####################################
+
+2025-05-16 19:47:30.995 | INFO     | __main__:main:235 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:47:30.995 | INFO     | __main__:create_folders_for_range:73 - FUNCTION: create_folders_for_range()
+2025-05-16 19:47:30.995 | INFO     | __main__:create_folders_for_range:74 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:47:30.996 | INFO     | __main__:create_folders_from_list:99 - FUNCTION: create_folders_from_list()
+2025-05-16 19:47:30.997 | INFO     | __main__:create_folders_from_list:100 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:47:30.997 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:47:30.997 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:47:30.998 | INFO     | __main__:create_folders_periodically:167 - FUNCTION: create_folders_periodically()
+2025-05-16 19:47:30.998 | INFO     | __main__:create_folders_periodically:168 - PARAMETER: duration_seconds = 5
+2025-05-16 19:47:30.998 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:47:36.002 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:47:41.007 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:47:46.008 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:47:51.012 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:47:56.018 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:48:01.019 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:48:06.023 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:48:41.333 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-05-16 19:48:41.334 | INFO     | __main__:main:231 - #####################################
+2025-05-16 19:48:41.334 | INFO     | __main__:main:232 - # Starting execution of main()
+2025-05-16 19:48:41.334 | INFO     | __main__:main:233 - #####################################
+
+2025-05-16 19:48:41.334 | INFO     | __main__:main:235 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 19:48:41.334 | INFO     | __main__:create_folders_for_range:73 - FUNCTION: create_folders_for_range()
+2025-05-16 19:48:41.334 | INFO     | __main__:create_folders_for_range:74 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 19:48:41.336 | INFO     | __main__:create_folders_from_list:99 - FUNCTION: create_folders_from_list()
+2025-05-16 19:48:41.336 | INFO     | __main__:create_folders_from_list:100 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 19:48:41.337 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - FUNCTION: create_prefixed_folders()
+2025-05-16 19:48:41.337 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 19:48:41.337 | INFO     | __main__:create_folders_periodically:167 - FUNCTION: create_folders_periodically()
+2025-05-16 19:48:41.337 | INFO     | __main__:create_folders_periodically:168 - PARAMETER: duration_seconds = 5
+2025-05-16 19:48:41.337 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:48:46.341 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:48:51.346 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:48:56.352 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:49:01.357 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:49:06.362 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:49:11.363 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 19:49:16.370 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
