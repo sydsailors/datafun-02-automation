@@ -41,5 +41,16 @@ Add new empty file in VS Code and paste module 1 repo (utils_sydneysailors.py) i
 Create new Python file (sydneysailors_project_setup.py) in VS Code.
 
 ## Functions Implemented 
-- 'for items in range'
-- 
+- `for item in range` - to create folders for a given range
+- `for name in list` - to create folders from a list of names
+- list comprehension
+- `while` loop - to create folders periodically over time
+- `for item in list` - to create folders from a list of names with options to standardize names
+
+## Git Commands
+```shell
+git add .
+git commit -m "Add sydneysailors_project_setup.py files"
+git push -u origin main
+```
+
