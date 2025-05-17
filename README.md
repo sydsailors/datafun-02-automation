@@ -41,5 +41,5 @@ Add new empty file in VS Code and paste module 1 repo (utils_sydneysailors.py) i
 Create new Python file (sydneysailors_project_setup.py) in VS Code.
 
 ## Functions Implemented 
-- for item in range 
+- 'for items in range'
 - 
