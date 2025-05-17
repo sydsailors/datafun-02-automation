@@ -168,10 +168,12 @@ def create_folders_periodically(duration_seconds: int) -> None:
     logger.info(f"PARAMETER: duration_seconds = {duration_seconds}")
 
 
-    count = 5
+    count = 1
     max_folders = 5
     while count <= max_folders: 
         folder_name = f"folder_{count}"
+        folder_path = ROOT_DIR / folder_name
+        folder_path.mkdir(exist_ok=True)
         if count <= max_folders:
             logger.info(f"Waiting for {duration_seconds} seconds before creating next folder")
             time.sleep(duration_seconds)

@@ -1037,3 +1037,141 @@ Standard Deviation of Length of Stay: 138.30
 2025-05-16 19:49:06.362 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
 2025-05-16 19:49:11.363 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
 2025-05-16 19:49:16.370 | INFO     | __main__:create_folders_periodically:183 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:01:33.768 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-05-16 21:01:33.770 | INFO     | __main__:main:222 - #####################################
+2025-05-16 21:01:33.770 | INFO     | __main__:main:223 - # Starting execution of main()
+2025-05-16 21:01:33.770 | INFO     | __main__:main:224 - #####################################
+
+2025-05-16 21:01:33.770 | INFO     | __main__:main:226 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 21:01:33.771 | INFO     | __main__:create_folders_for_range:73 - FUNCTION: create_folders_for_range()
+2025-05-16 21:01:33.771 | INFO     | __main__:create_folders_for_range:74 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 21:01:33.772 | INFO     | __main__:create_folders_from_list:99 - FUNCTION: create_folders_from_list()
+2025-05-16 21:01:33.772 | INFO     | __main__:create_folders_from_list:100 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 21:01:33.772 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - FUNCTION: create_prefixed_folders()
+2025-05-16 21:01:33.772 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 21:01:33.773 | INFO     | __main__:create_folders_periodically:167 - FUNCTION: create_folders_periodically()
+2025-05-16 21:01:33.773 | INFO     | __main__:create_folders_periodically:168 - PARAMETER: duration_seconds = 5
+2025-05-16 21:01:33.773 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:01:38.775 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:01:43.791 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:01:48.801 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:01:53.803 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:01:58.809 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:02:03.812 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:02:08.818 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:02:13.819 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:02:18.825 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:02:23.826 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:02:28.828 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:02:33.836 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:02:38.839 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:02:43.845 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:02:48.851 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:02:53.852 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:02:58.855 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:03:03.857 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:03:08.859 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:03:13.864 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:03:18.869 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:03:47.710 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-05-16 21:03:47.711 | INFO     | __main__:main:222 - #####################################
+2025-05-16 21:03:47.711 | INFO     | __main__:main:223 - # Starting execution of main()
+2025-05-16 21:03:47.712 | INFO     | __main__:main:224 - #####################################
+
+2025-05-16 21:03:47.712 | INFO     | __main__:main:226 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 21:03:47.712 | INFO     | __main__:create_folders_for_range:73 - FUNCTION: create_folders_for_range()
+2025-05-16 21:03:47.712 | INFO     | __main__:create_folders_for_range:74 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 21:03:47.713 | INFO     | __main__:create_folders_from_list:99 - FUNCTION: create_folders_from_list()
+2025-05-16 21:03:47.713 | INFO     | __main__:create_folders_from_list:100 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 21:03:47.714 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - FUNCTION: create_prefixed_folders()
+2025-05-16 21:03:47.714 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 21:03:47.714 | INFO     | __main__:create_folders_periodically:167 - FUNCTION: create_folders_periodically()
+2025-05-16 21:03:47.714 | INFO     | __main__:create_folders_periodically:168 - PARAMETER: duration_seconds = 5
+2025-05-16 21:03:47.715 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:03:52.718 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:03:57.719 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:04:02.725 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:04:07.728 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:04:12.730 | INFO     | __main__:create_folders_periodically:176 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:07:50.863 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-05-16 21:07:50.864 | INFO     | __main__:main:224 - #####################################
+2025-05-16 21:07:50.865 | INFO     | __main__:main:225 - # Starting execution of main()
+2025-05-16 21:07:50.865 | INFO     | __main__:main:226 - #####################################
+
+2025-05-16 21:07:50.865 | INFO     | __main__:main:228 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 21:07:50.865 | INFO     | __main__:create_folders_for_range:73 - FUNCTION: create_folders_for_range()
+2025-05-16 21:07:50.865 | INFO     | __main__:create_folders_for_range:74 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 21:07:50.866 | INFO     | __main__:create_folders_from_list:99 - FUNCTION: create_folders_from_list()
+2025-05-16 21:07:50.867 | INFO     | __main__:create_folders_from_list:100 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 21:07:50.868 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - FUNCTION: create_prefixed_folders()
+2025-05-16 21:07:50.868 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 21:07:50.872 | INFO     | __main__:create_folders_periodically:167 - FUNCTION: create_folders_periodically()
+2025-05-16 21:07:50.873 | INFO     | __main__:create_folders_periodically:168 - PARAMETER: duration_seconds = 5
+2025-05-16 21:08:23.949 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-05-16 21:08:23.950 | INFO     | __main__:main:224 - #####################################
+2025-05-16 21:08:23.952 | INFO     | __main__:main:225 - # Starting execution of main()
+2025-05-16 21:08:23.953 | INFO     | __main__:main:226 - #####################################
+
+2025-05-16 21:08:23.955 | INFO     | __main__:main:228 - Byline: 
+---------------------------------------------------------
+Regional Hospitals - NICU Analytics
+---------------------------------------------------------
+Has A Nursery Unit:         True
+Years in Operation:         127
+Levels Offered:             ['Well-Baby Nursery', 'Special Care Nursery', 'Neonatal Intensive Care Unit', 'Regional Neonatal Intensive Care Unit']
+Length of Stay:             [1, 28, 127, 365, 50, 15]
+Minimum Length of Stay:     1
+Maximum Length of Stay:     365
+Mean Length of Stay:        97.67
+Standard Deviation of Length of Stay: 138.30
+
+2025-05-16 21:08:23.956 | INFO     | __main__:create_folders_for_range:73 - FUNCTION: create_folders_for_range()
+2025-05-16 21:08:23.956 | INFO     | __main__:create_folders_for_range:74 - PARAMETERS: minutes_min = 11, minutes_max = 26
+2025-05-16 21:08:23.962 | INFO     | __main__:create_folders_from_list:99 - FUNCTION: create_folders_from_list()
+2025-05-16 21:08:23.963 | INFO     | __main__:create_folders_from_list:100 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-05-16 21:08:23.964 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - FUNCTION: create_prefixed_folders()
+2025-05-16 21:08:23.965 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-05-16 21:08:23.966 | INFO     | __main__:create_folders_periodically:167 - FUNCTION: create_folders_periodically()
+2025-05-16 21:08:23.966 | INFO     | __main__:create_folders_periodically:168 - PARAMETER: duration_seconds = 5
+2025-05-16 21:08:23.967 | INFO     | __main__:create_folders_periodically:178 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:08:28.976 | INFO     | __main__:create_folders_periodically:178 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:08:33.979 | INFO     | __main__:create_folders_periodically:178 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:08:38.986 | INFO     | __main__:create_folders_periodically:178 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:08:43.992 | INFO     | __main__:create_folders_periodically:178 - Waiting for 5 seconds before creating next folder
+2025-05-16 21:08:48.996 | INFO     | __main__:create_folders_periodically:178 - Waiting for 5 seconds before creating next folder
